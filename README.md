@@ -7,3 +7,6 @@ Material Communication
 - install pip
 - install pymunk 5.6.0
 - install pygame 1.9.*
+
+pip install pymunk
+pip install pygame
